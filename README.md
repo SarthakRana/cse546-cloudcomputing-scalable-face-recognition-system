@@ -34,4 +34,5 @@ As part of the CSE546: Cloud Computing course at Arizona State University, I dov
 
 ✅ Integrated PyTorch-based deep learning for real-time inference
 
-The best part? Watching my cloud architecture smoothly scale from 0 to 20 instances based on demand was absolutely thrilling! 🎯 From managing cloud costs to implementing efficient auto-scaling algorithms, every hurdle taught me something valuable about production-grade cloud systems.
+
+**The best part? Watching my cloud architecture smoothly scale from 0 to 20 instances based on demand was absolutely thrilling! 🎯 From managing cloud costs to implementing efficient auto-scaling algorithms, every hurdle taught me something valuable about production-grade cloud systems.**
