@@ -7,13 +7,17 @@ As part of the CSE546: Cloud Computing course at Arizona State University, I dov
 
 
 ## 🛠️ Architecture & Implementation:
-- 👉 Designed a robust 3-tier architecture:
--- ➡️ Web Tier: Single EC2 instance handling user requests
--- ➡️ App Tier: Auto-scaling PyTorch-based ML processing fleet
--- ➡️ Data Tier: S3-based persistent storage for scalability
-- 👉 Implemented custom auto-scaling logic that dynamically scaled 0-20 instances
-- 👉 Orchestrated asynchronous processing using SQS queues for reliable message handling
-- 👉 Deployed deep learning models for real-time face recognition using PyTorch
+
+👉 Designed a robust 3-tier architecture:
+➡️ Web Tier: Single EC2 instance handling user requests
+➡️ App Tier: Auto-scaling PyTorch-based ML processing fleet
+➡️ Data Tier: S3-based persistent storage for scalability
+
+👉 Implemented custom auto-scaling logic that dynamically scaled 0-20 instances
+
+👉 Orchestrated asynchronous processing using SQS queues for reliable message handling
+
+👉 Deployed deep learning models for real-time face recognition using PyTorch
 
 ## 🎓 Key Technical Highlights:
 
