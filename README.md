@@ -10,9 +10,11 @@ As part of the CSE546: Cloud Computing course at Arizona State University, I dov
 
 👉 Designed a robust 3-tier architecture:
 
-&nbsp;➡️ Web Tier: Single EC2 instance handling user requests
-&nbsp;➡️ App Tier: Auto-scaling PyTorch-based ML processing fleet
-&nbsp;➡️ Data Tier: S3-based persistent storage for scalability
+&nbsp;&nbsp;&nbsp;➡️ Web Tier: Single EC2 instance handling user requests
+
+&nbsp;&nbsp;&nbsp;➡️ App Tier: Auto-scaling PyTorch-based ML processing fleet
+
+&nbsp;&nbsp;&nbsp;➡️ Data Tier: S3-based persistent storage for scalability
 
 👉 Implemented custom auto-scaling logic that dynamically scaled 0-20 instances
 
